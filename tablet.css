@@ -1,0 +1,17 @@
+@media(width>768px) {
+    body {
+        padding: 173px 209px 173px 209px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .cont {
+        width: 350px;
+    }
+
+    header {
+        width: 344px;
+        background-position: cover;
+        background-repeat: no-repeat;
+    }
+}
