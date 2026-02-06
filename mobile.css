@@ -9,7 +9,7 @@
 body {
     display: flex;
     flex-direction: column;
-    height: 100vh;
+    min-height: 100dvh;
     align-items: center;
     user-select: none;
     background-color: #19A1AE;

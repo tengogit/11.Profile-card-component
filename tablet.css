@@ -1,4 +1,4 @@
-@media(width>768px) {
+@media(min-width:768px) {
     body {
         padding: 173px 209px 173px 209px;
         justify-content: center;
